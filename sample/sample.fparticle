@@ -71,9 +71,9 @@ project:{
 				particle:{
 					lifeTime:3.000000
 					lifeTimeVar:0.250000
-					startSize:54.000000
-					startSizeVar:10.000000
-					endSize:20.000000
+					startSize:2.000000
+					startSizeVar:0.000000
+					endSize:1.000000
 					endSizeVar:0.000000
 					startColor:[193,63,31,255]
 					startColorVar:[0,0,0,0]
@@ -128,10 +128,10 @@ project:{
 				particle:{
 					lifeTime:3.500000
 					lifeTimeVar:1.000000
-					startSize:8.000000
-					startSizeVar:2.000000
-					endSize:8.000000
-					endSizeVar:2.000000
+					startSize:1.000000
+					startSizeVar:1.000000
+					endSize:1.000000
+					endSizeVar:1.000000
 					startColor:[125,125,125,255]
 					startColorVar:[125,125,125,25]
 					endColor:[25,25,25,51]
@@ -185,10 +185,10 @@ project:{
 				particle:{
 					lifeTime:2.000000
 					lifeTimeVar:0.500000
-					startSize:30.000000
-					startSizeVar:10.000000
-					endSize:30.000000
-					endSizeVar:10.000000
+					startSize:1.000000
+					startSizeVar:0.300000
+					endSize:1.000000
+					endSizeVar:0.300000
 					startColor:[193,63,30,255]
 					startColorVar:[0,0,0,0]
 					endColor:[0,0,0,255]
@@ -242,10 +242,10 @@ project:{
 				particle:{
 					lifeTime:4.000000
 					lifeTimeVar:1.000000
-					startSize:37.000000
-					startSizeVar:10.000000
-					endSize:37.000000
-					endSizeVar:10.000000
+					startSize:1.000000
+					startSizeVar:0.300000
+					endSize:1.000000
+					endSizeVar:0.300000
 					startColor:[31,63,193,255]
 					startColorVar:[0,0,0,0]
 					endColor:[0,0,0,255]
@@ -299,10 +299,10 @@ project:{
 				particle:{
 					lifeTime:4.000000
 					lifeTimeVar:1.000000
-					startSize:30.000000
-					startSizeVar:10.000000
-					endSize:30.000000
-					endSizeVar:10.000000
+					startSize:1.000000
+					startSizeVar:0.300000
+					endSize:1.000000
+					endSizeVar:0.300000
 					startColor:[125,125,125,255]
 					startColorVar:[125,125,125,125]
 					endColor:[0,0,0,0]
@@ -356,10 +356,10 @@ project:{
 				particle:{
 					lifeTime:2.000000
 					lifeTimeVar:1.000000
-					startSize:60.000000
-					startSizeVar:10.000000
-					endSize:60.000000
-					endSizeVar:10.000000
+					startSize:2.000000
+					startSizeVar:0.150000
+					endSize:2.000000
+					endSizeVar:0.150000
 					startColor:[51,102,178,255]
 					startColorVar:[0,0,51,0]
 					endColor:[0,0,0,255]
@@ -413,9 +413,9 @@ project:{
 				particle:{
 					lifeTime:12.000000
 					lifeTimeVar:0.000000
-					startSize:20.000000
+					startSize:0.800000
 					startSizeVar:0.000000
-					endSize:20.000000
+					endSize:0.800000
 					endSizeVar:0.000000
 					startColor:[125,125,125,255]
 					startColorVar:[125,125,125,0]
@@ -470,10 +470,10 @@ project:{
 				particle:{
 					lifeTime:3.000000
 					lifeTimeVar:1.000000
-					startSize:15.000000
-					startSizeVar:10.000000
-					endSize:15.000000
-					endSizeVar:10.000000
+					startSize:0.500000
+					startSizeVar:0.600000
+					endSize:0.500000
+					endSizeVar:0.600000
 					startColor:[178,25,51,255]
 					startColorVar:[125,125,125,0]
 					endColor:[125,125,125,0]
@@ -527,10 +527,10 @@ project:{
 				particle:{
 					lifeTime:4.000000
 					lifeTimeVar:1.000000
-					startSize:60.000000
-					startSizeVar:10.000000
-					endSize:60.000000
-					endSizeVar:10.000000
+					startSize:2.000000
+					startSizeVar:0.300000
+					endSize:2.000000
+					endSizeVar:0.300000
 					startColor:[204,204,204,255]
 					startColorVar:[51,51,51,0]
 					endColor:[0,0,0,0]
@@ -584,10 +584,10 @@ project:{
 				particle:{
 					lifeTime:45.000000
 					lifeTimeVar:15.000000
-					startSize:10.000000
-					startSizeVar:5.000000
-					endSize:10.000000
-					endSizeVar:5.000000
+					startSize:0.300000
+					startSizeVar:0.150000
+					endSize:0.300000
+					endSizeVar:0.150000
 					startColor:[255,255,255,255]
 					startColorVar:[0,0,0,0]
 					endColor:[255,255,255,0]
@@ -641,10 +641,10 @@ project:{
 				particle:{
 					lifeTime:4.500000
 					lifeTimeVar:0.000000
-					startSize:4.500000
+					startSize:0.200000
 					startSizeVar:0.000000
-					endSize:4.000000
-					endSizeVar:2.000000
+					endSize:0.200000
+					endSizeVar:0.100000
 					startColor:[178,204,255,255]
 					startColorVar:[0,0,0,0]
 					endColor:[178,204,255,125]
