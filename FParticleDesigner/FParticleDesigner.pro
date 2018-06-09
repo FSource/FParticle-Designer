@@ -24,7 +24,7 @@ INCLUDEPATH +=  src \
 
 
 LIBS += -L$$PWD/../faeris/lib/library/win32   -llibfaerisd \
-        -L$$PWD/../faeris/lib/library/win32/3rdparty -lglew -llibpng -lfreetype
+        -L$$PWD/../faeris/lib/library/win32/3rdparty -lglew32 -llibpng -lopengl32 -lfreetype -lzlib
 
 SOURCES += \
     src/widget/MpTextureSettingWidget.cc \
